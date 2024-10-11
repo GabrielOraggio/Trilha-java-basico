@@ -1,18 +1,16 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Objetivo do Projeto
 
-## Folder Structure
+Este projeto tem como objetivo praticar:
 
-The workspace contains two folders by default, where:
+- Entrada de dados no terminal usando `Scanner`.
+- Lançamento e tratamento de exceções personalizadas.
+- Estrutura de controle `for` para realizar uma contagem dinâmica.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Exceção Personalizada
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O projeto inclui uma exceção chamada `ParametrosInvalidosException`, que é lançada quando o primeiro parâmetro é maior ou igual ao segundo, forçando a lógica do programa a validar corretamente os valores de entrada.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Contribuição
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Fique à vontade para explorar o código, sugerir melhorias ou adicionar novas funcionalidades!
